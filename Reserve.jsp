@@ -399,7 +399,8 @@ WHERE ROOM_NAME<>'${ras.ROOM_NUMBER}'</sql:query>
         <input type="image" name="type28"  src="Nishant40.jpg"class="image1"/>
         <input type="image" name="type29"  src="Nishant41.jpg"class="image1"/>
         <input type="image" name="type30" src="Nishant42.jpg"class="image1"/>                                     
-    </div>      
+    </div>
+soksrj,
 </body>
 </html>
 
