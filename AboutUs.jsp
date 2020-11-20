@@ -19,6 +19,6 @@
         </style>
     </head>
     <body>
-        <h1>omshanti</h1>
+        <h1>Welcome to in About Hotel Page</h1>
     </body>
 </html>
